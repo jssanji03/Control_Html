@@ -7900,7 +7900,8 @@ table {
   box-shadow: 1px 2px 8px rgba(115, 124, 141, 0.514);
   position: fixed;
   right: 40px;
-  bottom: 80px; }
+  bottom: 80px;
+  z-index: 999; }
   .submit-Btn i {
     font-size: 25px; }
 
