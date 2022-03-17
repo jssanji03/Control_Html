@@ -7901,6 +7901,8 @@ table {
   position: fixed;
   right: 40px;
   bottom: 80px; }
+  .submit-Btn i {
+    font-size: 25px; }
 
 
 /*# sourceMappingURL=index.css.map*/
